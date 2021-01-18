@@ -1,13 +1,3 @@
-# Digica
-
----------------
-Zadanie 1 (To zadanie MUSI zostać zrobione.)
-Napisz program w Pythonie, ktory:
-1. Otworzy załączony plik CSV. (zadanie1.csv)
-2. Wypisze (print) liczbę osób, które urodziły sie po 1999-12-31.
-3. Wypisze (print) wszystkie imiona żeńskie. Imię żeńskie to takie, które ma "a" na końcu. Imiona na liście mają się nie powtarzać.
-Możesz używać dowolnych ogólnie dostępnych bibliotek. 
-
 ---------------
 Task 2
 Your task is to write a program in Python that uses FLICKR API to download images. 
